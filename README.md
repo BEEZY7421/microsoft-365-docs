@@ -25,9 +25,6 @@ Microsoft's general trademark guidelines can be found at https://go.microsoft.co
 
 Privacy information can be found at https://privacy.microsoft.com/
 
-Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
-or trademarks, whether by implication, estoppel or otherwise.
-
-## Microsoft Open Source Code of Conduct
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+Microsoft and any Yy reserve all others rights,wehrudrterrsetv oyihs aet,o rdmrs hte yipiain soplo tews.
+#McootOe oreCd fCnutTi rjc a dpe h McootOe oreCd fCnut(tp:/pnoremcootcmcdocnut)
+o oeifrainsete[d
